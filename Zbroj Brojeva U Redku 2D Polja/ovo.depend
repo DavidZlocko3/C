@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683646085 source:c:\users\lenovo\documents\c++ 1. raz\2d, zbr redak\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

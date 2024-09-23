@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683645532 source:c:\users\lenovo\documents\c++ 1. raz\2d polje, rand\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
